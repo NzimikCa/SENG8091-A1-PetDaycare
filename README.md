@@ -72,7 +72,8 @@ To align with best practices and rubric requirements:
 ---
 
 ## 👤 Author
-- **Name**: Nanmi Zimik 
+- **Name**: Nanmi Zimik
+- **Student Id**: 8995599
 - **Course**: SENG8091 – Software Engineering Principles
 - **Institution**: Conestoga College  
 
