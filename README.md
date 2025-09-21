@@ -1,7 +1,7 @@
 # SENG8091 – Assignment 1: Getting Organized (Pet Daycare Project)
 
 ## 📌 Overview
-This repository contains the submission for **Assignment #1: Getting Organized** for the course **SENG8091 – Software Quality Assurance & Project Management**.  
+This repository contains the submission for **Assignment #1: Getting Organized** for the course **SENG8091 – Software Engineering Principles**.
 
 The purpose of this assignment is to demonstrate the ability to:
 - Break down requirements from limited client interviews.
