@@ -49,3 +49,26 @@ The above requirements suggest the development of an **integrated onboarding sol
 - Improves satisfaction for all three groups: owners, employees, and customers.  
 
 ---
+## 2. Assumptions & Validation Plan
+
+### Assumptions
+1. Employees currently use a mix of paper forms, email, and ad-hoc digital tools.  
+2. Owners have not formally defined measurable KPIs but want to reduce onboarding time significantly.  
+3. Customers prefer a digital-first process but some may require offline or assisted onboarding options.  
+4. The business does not currently have a centralized onboarding platform or database.  
+5. Training inconsistencies exist because employees are not given standardized resources.  
+6. Clients may need to provide sensitive documents (e.g., vaccination records, medical information).  
+7. There is budget and willingness to adopt new tools or systems.  
+
+---
+
+### Validation Plan (Assumption → Validation Action)
+1. **Current tools used** → Ask employees to demonstrate their current onboarding process.  
+2. **KPIs for success** → Confirm with owners what “reduced onboarding time” means in measurable terms.  
+3. **Customer preference** → Survey or interview a small set of clients to validate digital vs. offline needs.  
+4. **No centralized system** → Ask IT/admin staff if any software currently exists, and if so, evaluate its usage.  
+5. **Training inconsistencies** → Request examples of employee onboarding documents or checklists.  
+6. **Document handling** → Confirm legal/compliance requirements for collecting and storing sensitive information.  
+7. **Budget and willingness** → Ask owners directly about budget range and openness to adopting new systems.  
+
+---
