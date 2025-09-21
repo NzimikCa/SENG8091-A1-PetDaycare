@@ -72,3 +72,27 @@ The above requirements suggest the development of an **integrated onboarding sol
 7. **Budget and willingness** → Ask owners directly about budget range and openness to adopting new systems.  
 
 ---
+## 3. Questions for the Client
+
+### Clarification Questions
+1. What is the current workflow for employee onboarding (step by step)?  
+2. What is the target timeframe to reduce onboarding from 3 months to what? (e.g., 1 month?)  
+3. What tools are currently used to collect client information (paper, spreadsheets, software)?  
+4. What information must be captured during client onboarding (pet health, owner contact, preferences)?  
+5. Are there any legal or compliance requirements for data handling?  
+6. Who will be the primary users of the new system (admins, employees, clients)?  
+7. What are the most common client complaints about the current onboarding process?  
+8. Do employees have company-provided devices or do they rely on personal laptops/phones?  
+9. Is there a budget allocated for system implementation and employee training?  
+10. Are seasonal spikes (holidays, summer) expected in client onboarding?  
+
+---
+
+### Possible Follow-Up Questions
+- Should customers be able to track their onboarding progress online?  
+- Do owners want analytics reports (e.g., average onboarding time, customer satisfaction metrics)?  
+- Should the solution integrate with existing systems (e.g., payroll, scheduling, CRM)?  
+- Is multi-language support required for diverse customers?  
+- Would the business prefer a phased rollout (pilot test) or immediate company-wide adoption?  
+
+---
